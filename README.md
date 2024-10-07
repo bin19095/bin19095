@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bin19095" alt="bin19095" /></a> </p>
-<div><img src="https://github.com/bin19095/bin19095/blob/main/gear.gif" height="200" widht="150"/>
-<img src="https://github.com/bin19095/bin19095/blob/main/staff.gif" height="200" widht="220"/>
-  <img src="https://github.com/bin19095/bin19095/blob/main/list.gif" height="200" width="220"/>
+<div>
+  <img src="https://github.com/bin19095/bin19095/blob/main/gear.gif" height="200" widht="100"/>
+ <img src="https://github.com/bin19095/bin19095/blob/main/staff.gif" height="200" widht="200"/>
+  <img src="https://github.com/bin19095/bin19095/blob/main/list.gif" height="200" width="180"/>
 </div>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
