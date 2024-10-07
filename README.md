@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bin19095" alt="bin19095" /></a> </p>
-
+![Staff GIF](https://github.com/bin19095/assets/staff.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/binay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="binay" height="30" width="40" /></a>
