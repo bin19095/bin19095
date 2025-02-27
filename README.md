@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Binay</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bin19095" alt="bin19095" /></a> </p>
 <div>
